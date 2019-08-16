@@ -1,0 +1,16 @@
++---> app
+|   +--> Payment Details
+|   |   |--Payment-Details.component.ts|html|.css
+|   |   +-->Payment-detail
+|   |   |   |--Payment-detail.component.ts|html|.css
+|   |   |
+|   |   +-->Payment-detail-list
+|   |   |   |--Payment-detail-list.component.ts|html|.css
+|   |   |
+|   |   +-->Shared
+|   |   |--Payment-detail.services.ts
+|   |   |--Payment-detail.model.ts
+|   |   
+|   |--App.module.ts
+|
+|--index.html(cdn path for bootstrap & fa icons )
